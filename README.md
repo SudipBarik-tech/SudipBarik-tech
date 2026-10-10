@@ -5,7 +5,9 @@
 ### Assistant Professor • AI & TinyML Researcher • Embedded Systems & IoT Developer
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=SudipBarik-tech&label=Profile%20Views&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/AI%20Research-Active-0A66C2?style=flat-square" alt="AI Research" />
+  <img src="https://img.shields.io/badge/TinyML-Embedded%20AI-6C63FF?style=flat-square" alt="TinyML" />
+  <img src="https://img.shields.io/badge/IoT-Smart%20Systems-008080?style=flat-square" alt="IoT" />
 </p>
 
 </div>
