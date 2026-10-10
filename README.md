@@ -65,8 +65,7 @@
 ## 📊 GitHub Overview
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SudipBarik-tech&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Sudip Barik GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudipBarik-tech&layout=compact&langs_count=8&hide_border=true" alt="Sudip Barik top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SudipBarik-tech&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Sudip Barik GitHub stats" />
 </div>
 
 <br>
