@@ -89,6 +89,9 @@
   <a href="https://www.researchgate.net/profile/Sudip-Barik?ev=hdr_xprf">
     <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
   </a>
+  <a href="https://orcid.org/0000-0002-1284-5575">
+    <img src="https://img.shields.io/badge/ORCID-0000--0002--1284--5575-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+  </a>
   <a href="https://tint.irins.org/profile/581839">
     <img src="https://img.shields.io/badge/Academic%20Profile-IRINS-1B365D?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Academic profile" />
   </a>
