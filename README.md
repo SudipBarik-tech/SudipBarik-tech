@@ -86,6 +86,9 @@
   <a href="https://scholar.google.com/citations?user=qBOJ6w4AAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
   </a>
+  <a href="https://www.researchgate.net/profile/Sudip-Barik?ev=hdr_xprf">
+    <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
+  </a>
   <a href="https://tint.irins.org/profile/581839">
     <img src="https://img.shields.io/badge/Academic%20Profile-IRINS-1B365D?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Academic profile" />
   </a>
