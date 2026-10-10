@@ -76,6 +76,28 @@
   <img src="https://streak-stats.demolab.com?user=SudipBarik-tech&hide_border=true" alt="GitHub streak" />
 </div>
 
+### 💻 Most Used Languages
+
+<div align="center">
+
+| Language | Usage |
+|:--|--:|
+| **C++** | **88.13%** |
+| **C** | **10.45%** |
+| **Jupyter Notebook** | **1.38%** |
+| **Python** | **0.04%** |
+| **HTML** | **0.00%** |
+| **Jinja** | **0.00%** |
+
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-88.13%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ 88.13%" />
+  <img src="https://img.shields.io/badge/C-10.45%25-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C 10.45%" />
+  <img src="https://img.shields.io/badge/Jupyter-1.38%25-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter 1.38%" />
+  <img src="https://img.shields.io/badge/Python-0.04%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 0.04%" />
+</p>
+
+</div>
+
 ---
 
 ## 🌐 Connect With Me
